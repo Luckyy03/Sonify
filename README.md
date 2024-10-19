@@ -2,11 +2,8 @@
 
 A  Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## Description
+Sonify is the ultimate music app designed to offer a seamless and personalized experience. With curated playlists, genre-based recommendations, and a sleek interface, Sonify brings your favorite tracks right to your fingertips. Whether you're studying, working out, or just relaxing, Sonify creates the perfect soundtrack for every moment.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
